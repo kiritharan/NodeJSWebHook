@@ -9,5 +9,8 @@
         "followSymlinks": true,
         "usePolling"   : true,
         "interval"    : 5
+      },
+      "env":{
+        "TOKEN":"FDFDSFFDFDFSDFFSDFSDFSDFSDFSDF"
       }
     }

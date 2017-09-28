@@ -10,5 +10,10 @@
     },
     "scripts": {
         "start": "node index.js"
+    },
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "express": "^4.16.0",
+        "express-x-hub": "^1.0.4"
     }
 }
