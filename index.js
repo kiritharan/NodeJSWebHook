@@ -6,8 +6,6 @@ const
  express = require('express'),
  xhub = require('express-x-hub'),
  crypto = require('crypto');
- 
- //require('dotenv').load();
 
 const APP_SECRET = (process.env.APP_SECRET) ? 
   process.env.APP_SECRET :
